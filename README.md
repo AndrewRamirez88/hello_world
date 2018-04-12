@@ -1,6 +1,7 @@
 # hello_world
 
 # By Andrew Ramirez
+# Collaboration Garrett Tarczuk
 % CSC 211 Lab 1
 
 # About
